@@ -2,8 +2,8 @@
 
 rustc test.rs
 
-This generates an executable (in linux):
-chmod +x test
+This generates an executable (in linux):\
+chmod +x test\
 ./test
 
 In windows:

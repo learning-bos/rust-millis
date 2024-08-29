@@ -6,5 +6,5 @@ This generates an executable (in linux):\
 chmod +x test\
 ./test
 
-In windows:
+In windows:\
 .\test.exe
